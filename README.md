@@ -3,6 +3,7 @@ This repository reproduces https://github.com/jrburke/r.js/issues/361 with the r
 1. Clone me
 
         $ git clone git@github.com:repeatingbeats/requirejs-optimizer-issue-361
+        $ cd requirejs-optimizer-issue-361
 
 2. Install my dependency (requirejs@2.1.4)
 
